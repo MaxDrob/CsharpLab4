@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITMO.CSarp_lab4_ex1
+namespace Lab4Task1
 {
     class Utils
     {
